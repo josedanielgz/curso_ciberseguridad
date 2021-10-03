@@ -1,6 +1,7 @@
 # Basic config, that must be set correctly
-baseurl: /markdownslides
-githuburl: https://github.com/a-nau/markdownslides/
+# baseurl: /markdownslides
+baseurl: /cisco_ciberseguridad
+githuburl: https://github.com/josedanielgz/cisco_cibersegurodad/
 
 # Further config
 markdown_slide_separator: ---
