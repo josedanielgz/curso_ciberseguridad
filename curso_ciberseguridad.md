@@ -1,12 +1,8 @@
 ---
 layout: presentation
-author: Alexander Naumann
-title: Markdown Slides | Thesis Helper
-description: Short presentation to help you write your thesis better.
+author: José Daniel Guarín Zapata
+title: Curso Cisco Ciberseguridad
+description: Prueba
 footer: Draft from 05/2021
 design: white
 ---
-
-# Curso Cybersecurity Essentials - Diapositivas de introducción
-
-* [Capítulo 3]()
